@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "nothingseries_sylvan:block/packed_dirt"
+  }
+}

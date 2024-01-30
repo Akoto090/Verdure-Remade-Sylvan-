@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "nothingseries_sylvan:block/hollow_log",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "nothingseries_sylvan:block/hollow_log"
+    },
+    "facing=south": {
+      "model": "nothingseries_sylvan:block/hollow_log",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nothingseries_sylvan:block/hollow_log",
+      "y": 270
+    }
+  }
+}

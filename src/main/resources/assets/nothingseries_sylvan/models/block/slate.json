@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nothingseries_sylvan:block/slate_top",
+    "side": "nothingseries_sylvan:block/slate"
+  }
+}
